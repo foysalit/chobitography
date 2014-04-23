@@ -1,10 +1,10 @@
 {
-  "name": "themiss",
+  "name": "chobitography",
   "version": "0.1.0",
   "authors": [
     "foysal ahamed <cfaion341@gmail.com>"
   ],
-  "description": "the miss application",
+  "description": "Social photo sharing application",
   "main": "[\"public/css/main.css\", \"public/js/plugins.js\"]",
   "license": "MIT",
   "private": true,

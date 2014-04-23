@@ -1,4 +1,4 @@
-themiss
+ছবিটোগ্রাফি (Chobitography)
 =======
 
-social network work in progress
+Laravel based social photo sharing app.
